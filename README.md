@@ -1,6 +1,6 @@
 # The Virtual Prostate
 
-This repository contains supplementary material for the article K. Liimatainen, L. Latonen, M. Valkonen, K. Kartasalo, P. Ruusuvuori, "Virtual reality for 3D histology: multi-scale visualization of organs with interactive feature exploration", preprint.
+This repository contains supplementary material for the article K. Liimatainen, L. Latonen, M. Valkonen, K. Kartasalo, P. Ruusuvuori, "Virtual reality for 3D histology: multi-scale visualization of organs with interactive feature exploration".
 
 ![Screen capture from the virtual prostate](https://github.com/BioimageInformaticsTampere/The-Virtual-Prostate/blob/master/wholeprostatefeats.png)
 
